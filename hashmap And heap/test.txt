@@ -1,0 +1,103 @@
+Q. 1 Highest Frequency character
+zmszeqxllzvheqwrofgcuntypejcxovtaqbnqyqlmrwitc
+
+Q. 2 Get Common Elements-1
+9 
+5 5 9 8 5 5 8 0 3 
+18 
+9 7 1 0 3 6 5 9 1 1 8 0 2 4 2 9 1 5
+
+Q. 3 Get Common Elements-2
+7 
+1 1 2 2 2 3 5 
+7 
+1 1 1 2 2 4 5 
+
+Q. 4 Longest consecutive sequence of Elements
+17 
+12 5 1 2 10 2 13 7 11 8 9 11 8 9 5 6 11 
+
+Q. 5 K largest Elements
+8
+44 -5 -2 41 12 19 21 -6 
+2
+
+Q. 6 sort K-sorted Array
+9 
+3 2 4 1 6 5 7 9 8 
+3
+
+Q. 7 Median priority Queue
+add 10
+add 20
+add 30
+add 40
+peek
+add 50
+peek
+remove
+peek
+remove
+peek
+remove
+peek
+remove
+peek
+quit
+
+Q. 8 Merge K sorted Lists
+4
+5
+10 20 30 40 50
+7
+5 7 9 11 19 55 57
+3
+1 2 3
+2
+32 39
+
+Q. 9 write priority Queue using heap
+add 10
+add 20
+add 30
+add 40
+peek
+add 50
+peek
+remove
+peek
+remove
+peek
+remove
+peek
+remove
+peek
+quit
+
+Q. 10 write hashmap
+put India 135
+put Aus 5
+put Canada 3
+display
+get China
+remove Aus
+get Aus
+containsKey US
+put US 10
+put UK 20
+remove US
+containsKey US
+put Pak 80
+put China 200
+display
+put Utopia 0
+display
+put Nigeria 3
+display
+put India 138
+display
+put Sweden 1
+display
+put finland 20
+display
+quit

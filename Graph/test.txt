@@ -1,0 +1,203 @@
+1. Has Path
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+0
+6
+
+2. Print all paths
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+0
+6
+
+3. MultiSolver - Smallest, Longest, Ceil, Floor, KthLargest Path
+7
+9
+0 1 10
+1 2 10
+2 3 10
+0 3 40
+3 4 2
+4 5 3
+5 6 3
+4 6 8
+2 5 5
+0
+6
+30
+4
+
+4. Get connected components of a graph
+7
+5
+0 1 10
+2 3 10
+4 5 10
+5 6 10
+4 6 10
+
+5. Is graph connected
+7
+5
+0 1 10
+2 3 10
+4 5 10
+5 6 10
+4 6 10
+
+6. number of islands
+8
+8
+0 0 1 1 1 1 1 1
+0 0 1 1 1 1 1 1
+1 1 1 1 1 1 1 0
+1 1 0 0 0 1 1 0
+1 1 1 1 0 1 1 0
+1 1 1 1 0 1 1 0
+1 1 1 1 1 1 1 0
+1 1 1 1 1 1 1 0
+
+7. perfect friends
+7
+5
+0 1
+2 3
+4 5
+5 6
+4 6
+
+8. hamiltonian path and cycle  
+7
+9
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+2 5 10
+0
+
+9. knights tour
+5
+2
+0
+
+10. breadth first traversal
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+2
+
+11. is graph cyclic
+7
+6
+0 1 10
+1 2 10
+2 3 10
+3 4 10
+4 5 10
+5 6 10
+
+12. is graph bipartite
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+
+13. spread of infection
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+6
+3
+
+14. shortest path in weights
+7
+9
+0 1 10
+1 2 10
+2 3 10
+0 3 40
+3 4 2
+4 5 3
+5 6 3
+4 6 8
+2 5 5
+0
+
+15. minimum wire required to connect all pcs
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 40
+3 4 2
+4 5 3
+5 6 3
+4 6 8
+
+16. order of compilation
+7
+7
+0 1
+1 2
+2 3
+0 3
+4 5
+5 6
+4 6
+
+17. iterative depth first traversal
+7
+8
+0 1 10
+1 2 10
+2 3 10
+0 3 10
+3 4 10
+4 5 10
+5 6 10
+4 6 10
+2
+
+
