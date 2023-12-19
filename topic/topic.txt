@@ -5,11 +5,11 @@ function and arrays .
 string, dynamic string and dynamic array .
 recursion and backtracking for beginners .
 time and space complexity .
-stacks and queues for beginners 
+stacks and queues for beginners ,
 linked lists for beginners ..
 generic tree for beginners ..
 binary tree for beginners ..
 binary search tree for beginners ..
 graphs for beginners ,
 hashmap and heap for beginners ..
-dynamic programming and greedy for beginners 
+dynamic programming and greedy for beginners ..

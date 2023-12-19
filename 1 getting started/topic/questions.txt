@@ -1,0 +1,14 @@
+print z
+grading system
+Is a number prime
+print all primes till n
+print fibonacci numbers till n  
+count digits in a number
+digits of a number
+reverse a number 
+inverse of a number 
+rotate a number 
+gcd and lcm
+prime Factorisation of a number 
+pythagorean triplet
+the curious case of benjamin bulbs
