@@ -9,6 +9,6 @@ Constraints
 1 <= b <= 10^9
 1 <= c <= 10^9
 Sample Input
-5 3 4
+5 3 4 
 Sample Output
 true

@@ -14,8 +14,8 @@ b
 Constraints
 2 <= n <= 10^9
 Sample Input
-36
-24
+36 
+24 
 Sample Output
 12
 72

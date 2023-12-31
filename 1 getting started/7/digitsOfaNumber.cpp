@@ -14,7 +14,13 @@ int main() {
         nod++;
     }
 
-    int div = pow(10, nod - 1); // 10 ^ (nod - 1)
+    // int div = pow(10, nod - 1); // 10 ^ (nod - 1) => floating point precision issue 
+    
+    int div = 1;
+    for (int i = 1; i < nod; ++i) {
+        div *= 10;
+    }
+
 
     while (div!=0) {
         int q = n / div;
@@ -25,3 +31,5 @@ int main() {
 
     return 0;
 }
+ 
+ 

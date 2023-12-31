@@ -4,6 +4,6 @@
 4. Note - Assume that the number of rotations will not cause leading 0's in the result. e.g. such an input will not be given
    n = 12340056
    k = 3
-   r = 05612340
+   r = 05612340 
 
 

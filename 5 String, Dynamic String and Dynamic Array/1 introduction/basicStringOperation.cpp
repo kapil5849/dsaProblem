@@ -8,7 +8,7 @@ int main(){
     // cout<<str<<endl; 
 
     getline(cin,s); // getline will take the input till the new line character...
-    cout<<s<<endl;
+    cout<<s<<endl; 
     s.insert(3,"abc"); // insert the string at the 3rd index...
     cout<<s<<endl;
     cout<<s[2]<<endl; // accessing the string like an array...
@@ -37,8 +37,9 @@ int main(){
     cout<<st.length()<<endl;
     s1.clear();
     cout<<s1.length()<<endl;
-    s2.empty();
-    cout<<s2.length()<<endl;
+    cout<<s1.empty()<<endl; 
+    cout<<s2.empty()<<endl;
+    cout<<s2.length()<<endl; 
     cout<<st<<endl;
     return 0;
 }

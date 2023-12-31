@@ -19,7 +19,7 @@ int main(){
     }
     for(int i=n-1;i>=0;i--){
         if(isPrime(v[i])){
-            v.erase(v.begin()+i);
+            v.erase(v.begin()+i); 
         }
     }
     for(int i=0;i<v.size();i++){
