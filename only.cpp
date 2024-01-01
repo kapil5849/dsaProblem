@@ -1,20 +1,24 @@
-#include<iostream>
-using namespace std;   
+#include<bits/stdc++.h>
+using namespace std;
 int main(){
     int n;
     cin>>n;
-    int val = 1;
-    for(int i=n;i>=1;i--){
-        int cval = val;
-        for(int j=1;j<=i;j++){
-            if(i>1 and i<n and j>1 and j<i){
-                cout<<"  ";
-            }else{
-                cout<<cval<<" ";
-            }
-            cval++;
+    int arr[n];
+    for(int i=0;i<n;i++) cin>>arr[i];
+    int max = arr[0];
+    for(int i=1;i<n;i++){
+        if(arr[i]>max){
+            max = arr[i];
         }
-        val++;
+    }
+    for(int i=max;i>=1;i--){
+        for(int j=0;j<n;j++){
+            if(arr[j]>=i){
+                cout<<"* ";
+            }else{
+                cout<<"  ";
+        }
+        }
         cout<<endl;
     }
     return 0;
