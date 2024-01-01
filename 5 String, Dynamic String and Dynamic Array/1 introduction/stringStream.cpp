@@ -1,7 +1,7 @@
-// whole concept of the string stream in cpp... 
+// whole concept of the string stream in cpp... { string builder in java... }
 
-#include<bits/stdc++.h>
-using namespace std;
+#include<bits/stdc++.h> 
+using namespace std; 
 int main(){
     stringstream ss;
     // two ways to make the input... 
@@ -17,6 +17,8 @@ int main(){
     ss>>s2;
     ss>>s3;
     cout<<s1<<" "<<endl<<s2<<" "<<endl<<s3<<endl;
+    cout<<ss.str()<<endl;
+    ss.clear(); // clear the string stream...
     cout<<ss.str()<<endl;
     ss.str(""); // clear the string stream, without using this the string stream will not clear...
     cout<<ss.str()<<endl;
