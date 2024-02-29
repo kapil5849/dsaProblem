@@ -1,0 +1,27 @@
+Linked Lists basic 
+Display a Linked List 
+Get Value in Linked List
+Add First in Linked List
+Add last in Linked List
+Remove first in Linked List
+Remove last in Linked List .
+
+Add at index in Linked List
+Remove at index in Linked List
+Reverse a Linked list data iterative
+Reverse a Linked list pointer iterative .
+Display Reverse Recursive
+Reverse Linked list pointer Recursive
+K Reverse in Linked list
+Mid of Linked list
+Kth Node From end of Linked list
+Is Linked list a palindrome .
+Merge two sorted Linked Lists
+Merge sort a Linked list
+Linked list to stack adapter
+list list to queue adapter
+Remove duplicates in a sorted Linked list
+Odd even Linked list 
+Fold a Linked list
+Add two Linked list
+Intersection point of Linked list 

@@ -1,0 +1,34 @@
+Print Decreasing 
+Print Increasing
+Print Decreasing Increasing
+Factorial
+Power Linear
+Power Logarithmic
+Print ZigZag
+Tower of Hanoi
+
+Display Array
+Display Array Reverse
+Maximum of an Array
+First Index
+Last Index
+All Indices
+
+Get Subsequence
+Get KPC
+Get Stair Paths
+Get Maze Paths 
+Get Maze Paths with Jumps
+
+Print Subsequence
+Print KPC
+Print Stair Paths
+Print Maze Paths
+Print Maze Paths with Jumps 
+Print Permutations
+Print Encodings
+
+Flood Fill
+Target Sum Subsets
+N Queens
+N Knights

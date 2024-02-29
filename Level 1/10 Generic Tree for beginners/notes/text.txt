@@ -1,0 +1,57 @@
+12 
+10 20 -1 30 50 -1 60 -1 -1 40 -1 -1 
+
+24 
+10 20 50 -1 60 -1 -1 30 70 -1 80 110 -1 120 -1 -1 90 -1 -1 40 100 -1 -1 -1 
+
+24 
+1 2 5 -1 6 -1 -1 3 7 -1 8 11 -1 12 -1 -1 9 -1 -1 4 10 -1 -1 -1 
+
+
+
+**Node Creation and Construction:**
+* `newNode(int value)`: Creates a new node with the given value.
+* `construct(vector<int> &arr, int n)`: Constructs a tree from the given inorder representation (using -1 for null nodes).
+
+**Tree Traversals:**
+* `display(Node* root)`: Displays the tree in level-order format.
+* `size(Node * root)`: Calculates the size of the tree (number of nodes).
+* `maximum(Node * root)`: Finds the maximum value in the tree.
+* `height(Node * root)`: Calculates the height of the tree.
+* `traversals(Node * root)`: Performs pre-order, in-order, and post-order traversals of the tree.
+
+**Level-order Traversals:**
+* `level_order(Node * root)`: Prints the tree in level-order fashion.
+* `level_orderFirst(Node * root)`: Prints the tree level-order, but each level on a new line.
+* `level_orderSecond(Node * root)`: Prints the tree level-order, but separates levels with a space.
+* `level_orderThird(Node * root)`: Prints the tree level-order, with each level on a new line.
+* `level_order_zigzag(Node * root)`: Prints the tree level-order in a zig-zag fashion.
+
+**Tree Modifications:**
+* `mirror(Node * root)`: Mirrors the tree (swaps left and right subtrees).
+* `removeLeaves(Node * root)`: Removes all leaf nodes from the tree.
+* `linear_ize(Node * root)`: Linearizes the tree into a doubly linked list (in-place).
+* `linear_ize2(Node * root)`: Same as linear_ize, but with a different approach.
+
+**Searching and Path Finding:**
+* `find(Node * root, int data)`: Searches for a node with the given data and returns true if found.
+* `NodeToRootPath(Node * root, int data)`: Finds the path from the root to a node with the given data.
+* `lca(Node * root, int data1, int data2)`: Finds the lowest common ancestor (LCA) of two nodes with the given data.
+* `distance(Node * root, int data1, int data2)`: Calculates the distance between two nodes with the given data (number of edges).
+
+**Tree Comparison:**
+* `areSimilar(Node * rootA, Node * rootB)`: Checks if two trees have the same structure (same number of children at each level).
+* `isMirror(Node * rootA, Node * rootB)`: Checks if two trees are mirror images of each other.
+* `isSymmetric(Node * root)`: Checks if a tree is symmetric (mirror image of itself).
+
+**Node Operations:**
+* `PredecessorAndSuccessor(Node * root, int data)`: Finds the predecessor and successor of a node with the given data.
+* `CeilAndFloor(Node * root, int data)`: Finds the ceiling and floor of a node with the given data (closest nodes greater than and less than, respectively).
+* `kthLarge(Node * root, int k)`: Finds the k-th largest element in the tree using in-order traversal.
+
+**Tree Properties:**
+* `subSumTree(Node * root)`: Calculates the sum of all node values in a subtree and finds the node with the maximum subtree sum.
+* `diameter(Node * root)`: Calculates the diameter of the tree (longest path between any two nodes).
+
+**Iterative Traversals:**
+* `iterativePreAndPostOrder(Node * root)`: Performs pre-order and post-order traversals of the tree iteratively using a stack.
